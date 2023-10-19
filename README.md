@@ -7,12 +7,12 @@ Languages: Russian, English
 
 ## Screenshots
 <p float="left">
-  <img src='ReadmeImages/SignIn.png' width='280'>
-  <img src='ReadmeImages/news-list.png' width='280'>
-  <img src='ReadmeImages/breedList.png' width='280'>
-  <img src='ReadmeImages/breed1.png' width='280'>
-  <img src='ReadmeImages/expert-result.png' width='280'>
-  <img src='ReadmeImages/profile.png' width='280'>
+  <img src='ReadmeImages/SignIn.png' width='230'>
+  <img src='ReadmeImages/news-list.png' width='230'>
+  <img src='ReadmeImages/breedList.png' width='230'>
+  <img src='ReadmeImages/breed1.png' width='230'>
+  <img src='ReadmeImages/expert-result.png' width='230'>
+  <img src='ReadmeImages/profile.png' width='230'>
 </p>
 
 ## Tech Stack
