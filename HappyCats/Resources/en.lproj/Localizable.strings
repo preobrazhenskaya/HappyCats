@@ -1,0 +1,43 @@
+news.title = "News";
+empty.title = "No data";
+handbook.title = "Handbook";
+cats.title = "Breeds";
+disease.title = "Disease";
+
+button.save = "Save";
+button.changePhoto = "Change photo";
+
+auth.login.title = "Sign In";
+auth.login.readyButton = "Sign In";
+auth.login.registrationButton = "Don't have an accaunt? Sign Up";
+
+auth.registration.title = "Sign Up";
+auth.registration.readyButton = "Sign Up";
+auth.registration.loginButton = "Already have an accaunt? Sign In";
+
+auth.user.name = "Name";
+auth.user.email = "Email";
+auth.user.login = "Login";
+auth.user.password = "Password";
+
+profile.mainProfile.title = "Profile";
+profile.mainProfile.exitButton = "Log out";
+
+profile.myProfile.title = "My profile";
+profile.myProfile.name = "Name";
+profile.myProfile.login = "Login";
+profile.myProfile.email = "Email";
+profile.myProfile.phone = "Phone";
+profile.myProfile.birthday = "Birthday";
+profile.myProfile.note = "About me";
+
+profile.myCats.title = "My cats";
+profile.myCats.addButton = "+";
+profile.myCats.name = "Name";
+profile.myCats.breed = "Breed";
+profile.myCats.birthday = "Birthday";
+profile.myCats.note = "About pet";
+
+profile.addCat.title = "New pet";
+
+handbook.breeds.disease = "Diseases to which this breed is exposed";

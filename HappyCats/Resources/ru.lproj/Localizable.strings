@@ -1,0 +1,43 @@
+news.title = "Новости";
+empty.title = "No data";
+handbook.title = "Справочник";
+cats.title = "Породы";
+disease.title = "Заболевания";
+
+button.save = "Сохранить";
+button.changePhoto = "Изменить фотографию";
+
+auth.login.title = "Вход";
+auth.login.readyButton = "Войти";
+auth.login.registrationButton = "Нет аккаунта? Зарегистрироваться";
+
+auth.registration.title = "Регистрация";
+auth.registration.readyButton = "Зарегистрироваться";
+auth.registration.loginButton = "Уже есть аккаунт? Войти";
+
+auth.user.name = "Имя";
+auth.user.email = "Email";
+auth.user.login = "Логин";
+auth.user.password = "Пароль";
+
+profile.mainProfile.title = "Профиль";
+profile.mainProfile.exitButton = "Выйти";
+
+profile.myProfile.title = "Мой профиль";
+profile.myProfile.name = "Имя";
+profile.myProfile.login = "Логин";
+profile.myProfile.email = "Email";
+profile.myProfile.phone = "Номер телефона";
+profile.myProfile.birthday = "День рождения";
+profile.myProfile.note = "О себе";
+
+profile.myCats.title = "Мои кошки";
+profile.myCats.addButton = "+";
+profile.myCats.name = "Имя";
+profile.myCats.breed = "Порода";
+profile.myCats.birthday = "День рождения";
+profile.myCats.note = "О питомце";
+
+profile.addCat.title = "Новый питомец";
+
+handbook.breeds.disease = "Заболевания, которым подвержена данная порода";
